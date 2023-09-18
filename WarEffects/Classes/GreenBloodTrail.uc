@@ -1,0 +1,2 @@
+class GreenBloodTrail extends BloodTrail;
+

@@ -1,0 +1,1 @@
+class AttackPath extends AssaultPath;

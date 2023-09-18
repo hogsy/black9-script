@@ -1,0 +1,7 @@
+class M09A03_Gruber_1a extends B9_Conversation
+	notplaceable;
+	
+defaultproperties
+{
+	fStrings=/* Array type was not detected. */
+}

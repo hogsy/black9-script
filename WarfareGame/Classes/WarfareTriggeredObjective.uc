@@ -1,0 +1,2 @@
+class WarfareTriggeredObjective extends TriggeredObjective
+	placeable;

@@ -1,0 +1,12 @@
+//////////////////////////////////////////////////////////////////////////
+//
+// Black 9 Civilian Archetype Pawn, Joe-style
+//
+//////////////////////////////////////////////////////////////////////////
+class B9_ArchetypePawnCivilian_Joe extends B9_ArchetypeCivilianPawn placeable;
+
+defaultproperties
+{
+	fIsAggressive=true
+	ControllerClass=Class'B9_AI_ControllerCivilian_Joe'
+}

@@ -1,0 +1,2 @@
+class WarScriptedSequence extends UnrealScriptedSequence;
+
